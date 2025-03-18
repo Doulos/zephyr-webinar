@@ -92,9 +92,11 @@ Configure the recording settings as follows:
 ### 📚 Training
 Zephyr is a modular, highly portable, real-time operating system with an associated ecosystem to build secure, connected, and future-proofed devices. Zephyr is not just another RTOS but a complete development platform. It can help you achieve a lot with optimal effort
 
-[Doulos Zephyr Essentials](https://www.doulos.com/zephyr/) . This training will help you maximise  the potential of Zephyr and **get project ready in record time** 😄
+The [Doulos Zephyr Essentials](https://www.doulos.com/zephyr/) training will help you maximise the potential of Zephyr and **get project ready in record time** 😄
 
 ###  Links 🔗
 * [Zephyr MCXN947 Documentation](https://docs.zephyrproject.org/latest/boards/nxp/frdm_mcxn947/doc/index.html)
 * [Percepio Tracealyzer](https://percepio.com/tracealyzer/)
 * [FRDM-MCXN947 ](https://www.nxp.com/design/design-center/development-boards-and-designs/FRDM-MCXN947)
+* [Doulos Zephyr Essentials](https://www.doulos.com/zephyr/)
+

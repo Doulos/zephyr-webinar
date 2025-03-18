@@ -71,9 +71,7 @@ west flash -r jlink
 ### Configuring  Percepio Tracealyzer
 Unfortunately, the RTT control block address auto-detection doesn't work with this SoC. This needs to be set manually in the PSF streaming settings. The address can be found by looking at the `_SEGGER_RTT` symbol in the zephyr map file:
 ```console
-grep "_SEGGER_RTT" build/zephyr/zephyr.map
-```
-```console
+$ grep "_SEGGER_RTT" build/zephyr/zephyr.map
  .bss._SEGGER_RTT
                 0x000000003000297c                _SEGGER_RTT
 ```

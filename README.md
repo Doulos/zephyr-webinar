@@ -6,7 +6,7 @@
 Webinar presented by **Loïc Domaigné** <br/>
 Senior Members Technical Staff, Doulos
 
-Scheduled on: 19<sup>th</sup> March 2025.
+Scheduled on: 30<sup>th</sup> October 2026.
 
 ## Introduction
 This documentation is a companion to the Doulos Webinar [Building Embedded Products with Zephyr](https://www.doulos.com/events/webinars/building-embedded-products-with-zephyr). It is licensed under the Apache License, Version 2.0.
